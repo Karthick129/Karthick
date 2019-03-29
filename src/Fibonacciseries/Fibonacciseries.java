@@ -12,7 +12,7 @@ public class Fibonacciseries {
     }
     else if(c<0)
 	{
-	System.out.println("please enter the positive integer greater");
+	System.out.println("please enter the positive integer");
 	}
 	else
 	{
@@ -39,10 +39,5 @@ public class Fibonacciseries {
 	fibseries(-1);
 	fibseries(0);
 	fibseries(9);
-	fibseries(-9);
-	
-	
-
-	}
-
+}
 }
