@@ -13,7 +13,7 @@ import library.data;
 			{
 			System.out.println(headings.getText());
 			}
-			driver.quit();
+			
 		}
 		
 

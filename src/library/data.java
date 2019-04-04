@@ -9,7 +9,7 @@ package library;
 		public static Properties prop=new Properties();
 		public static void datacalling() throws IOException
 		{
-		String datapath="D:\\Karthick java\\xpath\\src\\xpath\\data.properties";
+		String datapath="C:\\Users\\Lenovo\\Desktop\\Karthick_git_java\\Karthick\\src\\xpath\\data.properties";
 	    FileInputStream fis=new FileInputStream(datapath);
 	    prop.load(fis);
 		}
